@@ -1,9 +1,9 @@
-=== OB WP Generators ===
+﻿=== OB WP Generators ===
 Contributors: Oudaryamay Burai
 Tags: shortcode, wp, generator, ob
 Donate link: #
 Requires at least: 2.9.0
-Tested up to: 4.9.4
+Tested up to: 5.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: 
